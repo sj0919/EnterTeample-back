@@ -1,8 +1,8 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://efub-week7-rds.cb2c4eww61h8.ap-northeast-2.rds.amazonaws.com:3306/enterteample?createDatabaseIfNotExist=true&characterEncoding=UTF-8&characterSetResults=UTF-8
-    username: rootb
+    url: jdbc:mysql://stem-enter-rds.cb2c4eww61h8.ap-northeast-2.rds.amazonaws.com:3306/enterteample?createDatabaseIfNotExist=true&characterEncoding=UTF-8&characterSetResults=UTF-8
+    username: admin
     password: kimcheon2002
   jpa:
     hibernate:
