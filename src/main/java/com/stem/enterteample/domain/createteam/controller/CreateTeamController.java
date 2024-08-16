@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @RestController
-@RequestMapping("/createteam")
+@RequestMapping("/createteams")
 @RequiredArgsConstructor
 public class CreateTeamController {
 
