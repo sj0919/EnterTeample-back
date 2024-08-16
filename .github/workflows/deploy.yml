@@ -6,7 +6,7 @@ on:
 
 env:
   AWS_REGION: ap-northeast-2
-  S3_BUCKET_NAME: stem-enterteample-github-actious-s3-bucket
+  S3_BUCKET_NAME: stem-enterteample-actions-s3-bucket
   CODE_DEPLOY_APPLICATION_NAME: stem-enterteample-codedeploy-app
   CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: stem-enterteample-codedeploy-deployment-group
 
